@@ -1,9 +1,3 @@
-<h1>NOTES</h>
-<h1>Output Image</h1>
-<img src="https://github.com/SwapnilpatilTech/CURD-OP/blob/98c259c6338ac2669c6e95c2c791180f4a3f44b5/Nnotes/Asset/Screenshot%202025-04-12%20155507.png">
-<h1>Video</h1>
-<img src="https://github.com/SwapnilpatilTech/CURD-OP/blob/3d7bb2ca858c2059dcfffec8ddcb1e28c957e447/Nnotes/Asset/notes%20video%20-%20Made%20with%20Clipchamp.gif" width=100%>
-
 <h1>🗒️✨ JavaScript Notes App – Simple, Stylish & Functional<h1>
 
 <h4>This Notes App is a lightweight, fully front-end application developed using HTML, CSS, and JavaScript. It's designed to help users quickly jot down thoughts, reminders, or ideas in a clean and responsive user interface.</h4>
@@ -27,3 +21,10 @@
 Whether you’re a beginner building your portfolio or a student submitting a practical assignment — this Notes App is simple, effective, and user-friendly.</h4>
 
 </h1>
+
+<h1>NOTES</h>
+<h1>Output Image</h1>
+<img src="https://github.com/SwapnilpatilTech/CURD-OP/blob/98c259c6338ac2669c6e95c2c791180f4a3f44b5/Nnotes/Asset/Screenshot%202025-04-12%20155507.png">
+<h1>Video</h1>
+<img src="https://github.com/SwapnilpatilTech/CURD-OP/blob/3d7bb2ca858c2059dcfffec8ddcb1e28c957e447/Nnotes/Asset/notes%20video%20-%20Made%20with%20Clipchamp.gif" width=100%>
+
